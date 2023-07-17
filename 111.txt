@@ -16,7 +16,7 @@
     
 {
       "name": "live",
-      "url": "https://uujs.ml/f/Ymps7/pro.txt",
+      "url": "https://pastebin.com/raw/1apYyQid",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
