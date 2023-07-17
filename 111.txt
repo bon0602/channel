@@ -12,15 +12,7 @@
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"}
     ],
 
-  "lives": [
-    {
-      "name": "TXT",
-      "type": 0,
-      "url": "https://pastebin.com/raw/1apYyQid",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
-    }
-  ],
+ "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://pastebin.com/raw/1apYyQid"]}]}],
 
   "doh": [
     {
