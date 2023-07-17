@@ -14,8 +14,8 @@
 
   "lives": [
     {
-      "name": "Json",
-      "type": 1,
+      "name": "TXT",
+      "type": 0,
       "url": "https://pastebin.com/raw/1apYyQid",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
