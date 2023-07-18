@@ -8,8 +8,7 @@
     {"key":"獨播","name":"獨播","type":"3","api":"csp_XPathMacFilter","searchable":"1","changeable":"0","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Star","name":"星星","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"227debe32e2e299f5b71189055a92e93"},
-    {"key":"WoGG","name":"玩偶","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"195e30c1255970effc5480021f25fcd9#影視天下第一token"},
-    {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"}
+    {"key":"WoGG","name":"玩偶","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"195e30c1255970effc5480021f25fcd9#影視天下第一token"}
     ],
 
 "lives":[
