@@ -1,6 +1,6 @@
 ﻿{
   "sites": [
-    {"key":"泥巴","name":"泥巴影院","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"jar":"http://richman.cf/tvbox/catxb.jar"},
+    {"key":"泥巴","name":"泥巴影院","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"categories":["電影","電視劇","綜藝","動漫","體育","紀錄片","短視頻"],"jar":"http://richman.cf/tvbox/catxb.jar"},
     {"key":"Xiaoh","name":"海外看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
     {"key": "暴風","name": "暴風","type": 0,"api": "https://bfzyapi.com/api.php/provide/vod/at/xml","playUrl": "https://bfzyplayer.com/player/?url=","searchable": 1,"filterable": 0,"categories": ["电影片","动作片","喜剧片","动画片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {"key":"量子","name":"量子","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"0","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
