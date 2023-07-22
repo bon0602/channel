@@ -2,7 +2,7 @@
   "sites": [
     {
          "key":"泥巴",
-         "name":"👑泥巴影院",
+         "name":"🐾泥巴影院",
          "type":3,
          "api":"csp_NiNi",
          "searchable":1,
