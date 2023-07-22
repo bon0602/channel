@@ -131,8 +131,8 @@ DW德國之聲,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
 中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t05
 民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇國際新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇台灣新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
+寰宇新聞台,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇新聞台灣台,http://sc2022.stream-link.org/tv2306.php?id=t08
 三立財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t09
 三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
 三立新聞+,http://sc2022.stream-link.org/tv2306.php?id=t11
