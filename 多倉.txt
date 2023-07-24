@@ -3,7 +3,7 @@
            
         {
             "url": "https://raw.githubusercontent.com/bon0602/channel/master/111.txt",
-            "name": "柑仔店專線〔多条线路〕"
+            "name": "🍀柑仔店專線〔多条线路〕"
         },
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
