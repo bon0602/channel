@@ -6,8 +6,9 @@
          "type":3,
          "api":"csp_NiNi",
          "searchable":1,
-         "filterable":1,     "jar":"http://www.bontv.nuxmax.com/custom_spider.jar;md5;a0d6409d59f67ef375b53de71a75bd68b"
+         "filterable":1,     "jar":"https://raw.githubusercontent.com/bon0602/channel/master/custom_spider.jar;md5;a0d6409d59f67ef375b53de71a75bd68b"
       },
+//http://www.bontv.nuxmax.com/
     {"key":"csp_xpath_歐樂","name":"⚽歐樂(Exo解碼)","type": 3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.githubusercontent.com/bon0602/channel/master/cat0311.jar","ext":"http://wp.richman.cf/app/cat/olevod.json"},
 //http://wp.richman.cf/app/
     {"key":"Xiaoh","name":"💦海外看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
