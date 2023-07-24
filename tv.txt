@@ -39,6 +39,8 @@ TVBS新聞,http://4gtv.mumi.rip:9877/129/4gtv-live072/index.m3u8
 中視新聞,http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
 中天新聞台,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 寰宇新聞台,http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
+寰宇財經台,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8
 SBN全球財經台,http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
 TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 東森購物二台,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
