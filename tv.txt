@@ -127,6 +127,7 @@ DW德國之聲,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 電影免費看,http://4gtv.mumi.rip:9877/272/4gtv-live013/index.m3u8
 
 📺Stream TV,#genre#
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
 東森財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t02
 中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
@@ -165,6 +166,7 @@ TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
 寰宇新聞台,https://www.youtube.com/watch?v=B7Zp3d6xXWw&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
 寰宇新聞台灣台,https://www.youtube.com/watch?v=UcTIv4ZaE5Y&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
