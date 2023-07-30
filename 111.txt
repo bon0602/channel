@@ -35,7 +35,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbjA2MDIvY2hhbm5lbC9tYXN0ZXIvdHYudHh0"]}]
     }],
 
   "doh": [
