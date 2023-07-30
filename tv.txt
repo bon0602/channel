@@ -126,34 +126,6 @@ DW德國之聲,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 戲劇免費看,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
 電影免費看,http://4gtv.mumi.rip:9877/272/4gtv-live013/index.m3u8
 
-📺Stream TV,#genre#
-東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-東森新聞,http://sc2022.stream-link.org/tv2306.php?id=t01
-東森財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t02
-中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
-華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
-中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t05
-民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇新聞台,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇新聞台灣台,http://sc2022.stream-link.org/tv2306.php?id=t08
-三立財經新聞,http://sc2022.stream-link.org/tv2306.php?id=t09
-三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新聞+,http://sc2022.stream-link.org/tv2306.php?id=t11
-台視新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
-TVBS新聞,http://sc2022.stream-link.org/tv2306.php?id=t13
-TVBS財經,http://sc2022.stream-link.org/tv2306.php?id=t14
-中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
-民視HD,http://sc2022.stream-link.org/tv2306.php?id=t17
-民視第一台,http://sc2022.stream-link.org/tv2306.php?id=t18
-民視台灣台,http://sc2022.stream-link.org/tv2306.php?id=t19
-民視綜藝台,http://sc2022.stream-link.org/tv2306.php?id=t20
-民視影劇台,http://sc2022.stream-link.org/tv2306.php?id=t21
-民視旅遊台,http://sc2022.stream-link.org/tv2306.php?id=t22
-三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
-三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
-
-
 🇹🇼台灣,#genre#
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
