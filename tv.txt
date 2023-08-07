@@ -10,6 +10,7 @@
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&ab_channel=%E9%8F%A1%E6%96%B0%E8%81%9E
 寰宇新聞台,https://www.youtube.com/watch?v=B7Zp3d6xXWw&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
 寰宇新聞台灣台,https://www.youtube.com/watch?v=UcTIv4ZaE5Y&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
+东森新闻,http://107.173.180.164:34400/stream/ba69b2a0d72661c6a2415b4261d48182
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
 中天新聞台,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
