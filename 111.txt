@@ -1,6 +1,17 @@
 ﻿{
   "sites": [
     {"key":"泥巴","name":"✨泥巴影院","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"jar":"http://www.bontv.nuxmax.com/custom_spider.jar;md5;a0d6409d59f67ef375b53de71a75bd68b","categories":["電影","電視劇","綜藝","動漫","體育","紀錄片","短視頻"]},
+{
+         "key":"泥巴",
+         "name":"✨泥巴影院1",
+         "type":3,
+         "api":"csp_NiNi",
+         "searchable":1,
+         "filterable":1,
+         "categories":["電影","電視劇","綜藝","動漫","體育","紀錄片","短視頻"],
+         "jar":"http://www.bontv.nuxmax.com/cattv/jar/catx.jar"
+		 //"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eb125a06ca94c3f1ff38f8f1034f0ff9"
+      },
 //http://www.bontv.nuxmax.com/
     {"key":"csp_xpath_歐樂","name":"⚽歐樂(Exo播放器)","type": 3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.githubusercontent.com/bon0602/channel/master/cat0311.jar","ext":"http://wp.richman.cf/app/cat/olevod.json"},
 //http://wp.richman.cf/app/
