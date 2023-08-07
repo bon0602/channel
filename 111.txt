@@ -7,8 +7,7 @@
          "api":"csp_NiNi",
          "searchable":1,
          "filterable":1,
-         "viewType":1,
-"categories":["電影","電視劇","綜藝","動漫","體育","紀錄片","短視頻"],
+         "categories":["電影","電視劇","綜藝","動漫","體育","紀錄片","短視頻"],
          "jar":"http://www.bontv.nuxmax.com/cattv/jar/catx.jar"
       },
 //http://www.bontv.nuxmax.com/
