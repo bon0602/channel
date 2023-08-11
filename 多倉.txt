@@ -10,6 +10,10 @@
             "name": "💖月光宝盒家庭版〔多条线路〕"
         },
         {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "💖唐三〔多条线路〕"
+        },
+        {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json",
             "name": "🍎小苹果影视盒子〔多条线路〕"
         },
