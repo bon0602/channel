@@ -23,18 +23,11 @@
       },
     {"key":"唐人街TV","name":"🦄唐人街TV","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key": "暴風","name": "🌀暴風","type": 0,"api": "https://bfzyapi.com/api.php/provide/vod/at/xml","playUrl": "https://bfzyplayer.com/player/?url=","searchable": 1,"filterable": 0,"categories": ["电影片","动作片","喜剧片","动画片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
+    {"key": "1️⃣海外看","name": "1️⃣海外看(采)","type": 0,"api": "https://haiwaikan.com/api.php/provide/vod/at/xml","playUrl": "","searchable": 1,"filterable": 0,"categories":["欧美剧","日剧","韩剧","国产剧","泰剧","港剧","台剧","新马剧","其他剧","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","体育","纪录片","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","战争片","犯罪片","科幻片","经典片","网络电影"]},
     {"key":"👻獨播庫","name":"👻獨播庫(bontv)","type":3,"api":"csp_XPathDbk","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.bontv.nuxmax.com/cattv/json/dbk.json","jar":"http://www.bontv.nuxmax.com/cattv/dbk/custom_spider.jar" },
     {
       "key": "量子",
-      "name": "量子",
+      "name": "✨量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -78,7 +71,7 @@
     },
     {
       "key": "非凡",
-      "name": "非凡",
+      "name": "🔥非凡",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -115,22 +108,7 @@
         "海外动漫"
       ]
     },
-    {
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1
-    }
+    {"key": "csp_xpath_dm84","name": "🐮動漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.bontv.nuxmax.com/cattv/nite07/dm84.json","jar":"http://www.bontv.nuxmax.com/cattv/jar/cat0101.jar"}
   ],
   "doh": [
     {
