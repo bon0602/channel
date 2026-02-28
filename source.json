@@ -74,7 +74,7 @@
     },
     {
       "id": 11,
-      "name": "電影天堂",
+      "name": "🍁電影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml",
       "click": true,
       "searchFilter": false
@@ -109,7 +109,7 @@
     },
     {
       "id": 16,
-      "name": "✨极速",
+      "name": "🍃极速",
       "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -132,6 +132,13 @@
       "id": 19,
       "name": "🎑如意",
       "api": "https://www.ryzyw.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    }，
+    {
+      "id": 20,
+      "name": "💕夢想",
+      "api": "http://5.zshwhi.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
