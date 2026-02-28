@@ -134,13 +134,6 @@
       "api": "https://www.ryzyw.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
-    },
-    {
-      "id": 20,
-      "name": "🎑夢想",
-      "api": "http://5.zshwhi.cn/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
     }
   ],
   "live": [
