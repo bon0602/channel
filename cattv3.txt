@@ -52,12 +52,12 @@
 		},
 {
    "name": "金星12✨",
-   "url": "http://bird666.serv00.net/ev260222.txt",
+   "url": "http://bird666.serv00.net/ev260508.txt",
    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png",
    "core": {
-    //"so":"https://bird666.serv00.net/EV/libtvcorev6.so",
-    "so": "https://github.com/TWJK01/tvbox/raw/refs/heads/master/tvbox/cat/cc.so",
+    "so":"https://github.com/bon0602/channel/raw/master/libtvcore.so",
+    //"so": "https://github.com/TWJK01/tvbox/raw/refs/heads/master/tvbox/cat/cc.so",
     "auth": "https://lperm.yokalami.com/v1/auth",
     //"name": "00226e3bb0d3",
     //"pass": "8e4f88ccec75a3573e8aea20391f6d75",
